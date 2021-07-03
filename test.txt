@@ -1,0 +1,82 @@
+using Insurance.Core.Configuration;
+
+namespace Insurance.Core.Domain.Configuration
+{
+    /// <summary>
+    /// تنظیمات مربوط به پرداخت
+    /// </summary>
+    public partial class AccountSetting : ISettings
+    {
+
+        /// <summary>
+        /// قسط حق بیمه
+        /// </summary>
+        public string PremiumInstallmentCode { get; set; }
+        /// <summary>
+        /// سپرده حق بیمه
+        /// </summary>
+        public string PremiumDepositCode { get; set; }
+        /// <summary>
+        /// سپرده بیمه گذار
+        /// </summary>
+        public string PolicyHolderDeposit { get; set; }
+        /// <summary>
+        /// حق بیمه یکجا
+        /// </summary>
+        public string PremiumOnePieceCode { get; set; }
+        /// <summary>
+        /// قسط وام
+        /// </summary>
+        public string LoanInstallmentCode { get; set; }
+        /// <summary>
+        /// سند نقد شده
+        /// </summary>
+        public string ReviewedDocumentCode { get; set; }
+        /// <summary>
+        /// سود علی الحساب سپرده بیمه نامه
+        /// </summary>
+        public string ProfitAccountsDepositPolicyCode { get; set; }
+        /// <summary>
+        ///   سود مشارکت بیمه نامه
+        /// </summary>
+        public string ProfitContributionInsuranceCode { get; set; }
+        /// <summary>
+        /// حواله خسارت
+        /// </summary>
+        public string DamagesCode { get; set; }
+        /// <summary>
+        /// بازیافت خسارت
+        /// </summary>
+        public string RecoveryDamageCode { get; set; }
+        /// <summary>
+        /// قسط عهده بیمه گر
+        /// </summary>
+        public date DeterminationByInsurerCode { get; set; }
+        /// <summary>
+        /// واریز امانی
+        /// </summary>
+        public string LoanDepositCode { get; set; }
+        /// <summary>
+        /// جوایز و هدایای تبلیغاتی
+        /// </summary>
+        public string AwardsCode { get; set; }
+        /// <summary>
+        /// جرائم عهده بیمه گر
+        /// </summary>
+        public string InsuredCriminalCode { get; set; }
+        /// <summary>
+        /// هزینه های فنی عههده بیمه گر
+        /// </summary>
+        public string TechnicalCostsCode { get; set; }
+        /// <summary>
+        /// هزینه های اداری عهده بیمه گر
+        /// </summary>
+        public string AdministrativeCostsCode { get; set; }
+        /// <summary>
+        /// کسورات تکلیفی مشتریان
+        /// </summary>
+        public int CustomersDeductionsCode { get; set; }
+
+
+    }
+}

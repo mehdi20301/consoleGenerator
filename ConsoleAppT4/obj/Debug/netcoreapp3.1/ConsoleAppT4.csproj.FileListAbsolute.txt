@@ -1,0 +1,13 @@
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\obj\Debug\netcoreapp3.1\ConsoleAppT4.AssemblyInfoInputs.cache
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\obj\Debug\netcoreapp3.1\ConsoleAppT4.AssemblyInfo.cs
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\obj\Debug\netcoreapp3.1\ConsoleAppT4.csproj.CoreCompileInputs.cache
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\bin\Debug\netcoreapp3.1\ConsoleAppT4.exe
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\bin\Debug\netcoreapp3.1\ConsoleAppT4.deps.json
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\bin\Debug\netcoreapp3.1\ConsoleAppT4.runtimeconfig.json
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\bin\Debug\netcoreapp3.1\ConsoleAppT4.runtimeconfig.dev.json
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\bin\Debug\netcoreapp3.1\ConsoleAppT4.dll
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\bin\Debug\netcoreapp3.1\ConsoleAppT4.pdb
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\obj\Debug\netcoreapp3.1\ConsoleAppT4.dll
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\obj\Debug\netcoreapp3.1\ConsoleAppT4.pdb
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\obj\Debug\netcoreapp3.1\ConsoleAppT4.genruntimeconfig.cache
+C:\Project\T4\ConsoleAppT4\ConsoleAppT4\obj\Debug\netcoreapp3.1\ConsoleAppT4.csproj.AssemblyReference.cache
